@@ -1,1 +1,5 @@
 node_modules
+package-lock.json
+# ignore all logs *.log 
+.DS_Store
+.gitignore
