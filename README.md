@@ -30,3 +30,4 @@ Follow these steps to setup the app:
  - No need to display partial data, you can wait for all data to load
  - We love to see a bit of creative flair, feel free to "Wowcherfy" the app
  - Make sure you are happy with the completed solution and it is done to the best of your ability
+ -https://github.com/Jaspreet22g/react-Wowcher-Test.git/ git repo 
